@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Dinner Decider</string>
+    <string name="selectedItem">WELCOME</string>
+    <string name="logo">DINNER DECIDER</string>
+    <string name="decideButton">DECIDE!</string>
+    <string name="addItemButton">ADD ITEM...</string>
+    <string name="enterItemButton">ADD ITEM</string>
+    <string name="messageView"></string>
+    <string name="itemClear">CLEAR LIST</string>
+</resources>
